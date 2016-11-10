@@ -18,4 +18,5 @@ int main()
     }
     cout << "Сумма элементов: " << sum << endl;
     return 0;
+    free(a);
 }
